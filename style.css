@@ -22,25 +22,22 @@ body {
     line-height: 78px;
     text-align: center;
     font-weight: 400;
-    padding: 0;
 }
 
 .products-list {
     list-style-type: none;
     padding: 0;
-    margin: 0 auto;
+    margin: 0;
     display: flex;
     flex-wrap: wrap;
     gap: 45px;
     justify-content: center;
-    width: 1110px;
 }
 
 .product-card {
     width: 290px;
     background-color:#5150761A;
     padding: 25px;
-    display: inline-block;
 }
 
 .product-img {
@@ -59,7 +56,7 @@ body {
     font-size: 20px;
     font-weight: 700;
     line-height: 27px;
-    margin: 5px 0px 5px 0px;
+    margin: 5px 0px;
 }
 
 .product-price {
