@@ -1,0 +1,11 @@
+.compound {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    text-align: left;
+    color: #515076;
+}
+
+.compound__list {
+    padding-left: 13px;
+}
